@@ -1,2 +1,2 @@
 # Receipe-Master
-A receipe website constructed using Front-End Decvelopment
+A receipe website constructed using Full-Stack Development(FSD)
